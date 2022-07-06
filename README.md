@@ -1,7 +1,7 @@
 # 作品リスト
 ## Eternity Scapegoat  
 Call of Dutyシリーズに存在するゾンビモードを参考に作ったトップダウンシューティング  
-[詳細]()  
+[詳細](https://github.com/NakaiReo/EternityScapegoat)  
   
 <img src="Thumbnails/Eternity_Scapegoat.png" width="640" height="360"><br>
 
@@ -9,7 +9,7 @@ Call of Dutyシリーズに存在するゾンビモードを参考に作った�
 
 ## Card And Dice  
 双六とRPGを合わせたローグライク  
-[詳細]()  
+[詳細](https://github.com/NakaiReo/CardAndDice)  
   
 <img src="Thumbnails/Card_And_Dice.png" width="640" height="360"><br>
 
@@ -17,7 +17,7 @@ Call of Dutyシリーズに存在するゾンビモードを参考に作った�
 
 ## Mixed Dimensions   
 次元を切り替えて道を切り開くパズルアクションゲーム  
-[詳細]()  
+[詳細](https://github.com/NakaiReo/MixedDimension)  
   
 <img src="Thumbnails/Mixed_Dimensions.png" width="640" height="360"><br>
 
@@ -25,15 +25,15 @@ Call of Dutyシリーズに存在するゾンビモードを参考に作った�
 
 ## Match Inversion  
 隣接するマスも同時にひっくり返る盤面を同じ色にするパズルゲーム  
-[詳細]()  
+[詳細](https://github.com/NakaiReo/MatchInversion)  
   
 <img src="Thumbnails/Match_Inversion.png" width="180" height="360"><br>
 
 
 
 ## ウマ娘ランダムマッチングツール  
-ウマ娘で友達と遊ぶときに煩わしかった部分をツール化したもの 
-[詳細]()  
+ウマ娘で友達と遊ぶときに煩わしかった部分をツール化したもの  
+[詳細](https://github.com/NakaiReo/UmaUmume_RandomRoomMatch)  
   
 <img src="Thumbnails/Umamusume.png" width="640" height="360"><br>
 
@@ -41,6 +41,6 @@ Call of Dutyシリーズに存在するゾンビモードを参考に作った�
 
 ## ダンジョン自動生成プログラム
 現在制作中のゲームのダンジョン自走生成プログラム  
-[詳細]()  
+[詳細](https://github.com/NakaiReo/DungeonGenerator)  
   
 <img src="Thumbnails/Dungeon_Generator.png" width="640" height="360"><br>
